@@ -84,3 +84,8 @@ copied to another PC as is.
 - `presets\`: `save <name>` writes `<name>.ini` and `<name>.wav`.
 
 Problems? See [docs/troubleshooting.md](docs/troubleshooting.md).
+
+## License
+
+Copyright (C) 2026 Intelin. Licensed under the GNU General Public License v3.0
+or later, see [LICENSE](LICENSE).
