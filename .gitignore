@@ -1,0 +1,4 @@
+build/
+out/
+.vs/
+.claude/settings.local.json
